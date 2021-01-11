@@ -16,7 +16,7 @@ public class ex_7 {
 		} else if (resultado == 0) {
 			resultado = (-b + raiz_delta / (2*a));
 			System.out.println("A raiz é de " + resultado);
-		// Se a raiz de delta for maior que 0, as ráizes são reais diferentes
+		// Se a raiz de delta for maior que 0, as raízes são reais diferentes
 		} else {
 			raiz1 = (-b + raiz_delta / (2*a));
 			raiz2 = (-b - raiz_delta / (2*a));
